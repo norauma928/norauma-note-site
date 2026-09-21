@@ -14,18 +14,11 @@
     "text": "一致なし"
   },
   {
-    "objectID": "sources/index.html",
-    "href": "sources/index.html",
-    "title": "資料から",
-    "section": "",
-    "text": "一致なし"
-  },
-  {
     "objectID": "translations/index.html",
     "href": "translations/index.html",
-    "title": "作品翻訳",
+    "title": "翻訳",
     "section": "",
-    "text": "一致なし"
+    "text": "文学作品に加え、書簡、日記、新聞、アーカイブ資料などの翻訳を、訳注、解説とともに掲載します。\n\n\n\n\n\n\n\n\n一致なし"
   },
   {
     "objectID": "research/index.html",
@@ -46,14 +39,14 @@
     "href": "index.html#主な読みもの",
     "title": "ノラウマノート",
     "section": "主な読みもの",
-    "text": "主な読みもの\n\n\n研究\n論文、研究報告、発表資料など、公表した研究成果。\n\n\n作品翻訳\n文学作品の翻訳と解説。\n\n\n資料から\n日記、書簡、新聞、アーカイブ資料。\n\n\nセマルハコガメの生活と意見\nセマルハコガメをめぐる観察、記録、随想。"
+    "text": "主な読みもの\n\n\n研究\n論文、研究報告、発表資料など、公表した研究成果。\n\n\n翻訳\n文学作品、書簡、日記などの翻訳と解説。\n\n\nセマルハコガメの生活と意見\nセマルハコガメの生活と意見。"
   },
   {
     "objectID": "index.html#最近のノート",
     "href": "index.html#最近のノート",
     "title": "ノラウマノート",
     "section": "最近のノート",
-    "text": "最近のノート\n研究に関する雑多なこぼれ話など。\n\n\n\n\n一致なし\n\nノートをすべて見る"
+    "text": "最近のノート\n研究に関する雑多な話題など。\n\n\n\n\n一致なし\n\nノートをすべて見る"
   },
   {
     "objectID": "index.html#人物から読む",
@@ -102,6 +95,6 @@
     "href": "people/index.html",
     "title": "人物索引",
     "section": "",
-    "text": "記事の people metadata に記録した人物を、五つの区分を越えてたどるための索引です。入力欄に人物名を入れると、該当する記事だけに絞り込めます。\n記事側で人物を追加・修正すると、この一覧も次回のサイト生成時に更新されます。\n\n\n\n\n\n\n   \n    \n    \n      並び替え\n      デフォルト\n      \n        人物\n      \n      \n        記事\n      \n      \n        公開日 - 日付（昇順）\n      \n      \n        公開日 - 日付（降順）\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n人物\n記事\n公開日\n\n\n\n\n\n一致なし"
+    "text": "記事の people metadata に記録した人物を、四つの区分を越えてたどるための索引です。入力欄に人物名を入れると、該当する記事だけに絞り込めます。\n記事側で人物を追加・修正すると、この一覧も次回のサイト生成時に更新されます。\n\n\n\n\n\n\n   \n    \n    \n      並び替え\n      デフォルト\n      \n        人物\n      \n      \n        記事\n      \n      \n        公開日 - 日付（昇順）\n      \n      \n        公開日 - 日付（降順）\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n人物\n記事\n公開日\n\n\n\n\n\n一致なし"
   }
 ]
