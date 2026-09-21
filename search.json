@@ -4,7 +4,7 @@
     "href": "tags/index.html",
     "title": "タグ",
     "section": "",
-    "text": "記事の categories metadata を使い、主題、時代、場所、資料種別などから内容を横断するためのページです。タグを選ぶか、入力欄へタグ名・記事名を入れると該当記事に絞り込めます。\n記事側でタグを追加・修正すると、この一覧も次回のサイト生成時に更新されます。\n\n\n\n\n\n\n   \n    \n    \n      並び替え\n      デフォルト\n      \n        記事\n      \n      \n        公開日 - 日付（昇順）\n      \n      \n        公開日 - 日付（降順）\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\nタグ\n記事\n公開日\n\n\n\n\n\n一致なし"
+    "text": "記事の categories metadata を使い、主題、時代、場所、資料種別などから内容を横断するためのページです。タグを選ぶか、入力欄へタグ名・記事名を入れると該当記事に絞り込めます。\n\n\n\n\n\n\n   \n    \n    \n      並び替え\n      デフォルト\n      \n        記事\n      \n      \n        公開日 - 日付（昇順）\n      \n      \n        公開日 - 日付（降順）\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\nタグ\n記事\n公開日\n\n\n\n\n\n一致なし"
   },
   {
     "objectID": "about.html",
@@ -74,14 +74,14 @@
     "href": "research/index.html",
     "title": "研究",
     "section": "",
-    "text": "論文、研究報告、発表資料など、一定のまとまりをもつ研究成果を掲載します。\n\n\n\n\n\n\n\n\n一致なし"
+    "text": "論文、研究報告、発表資料などを紹介します。\n\n\n\n\n\n\n\n\n一致なし"
   },
   {
     "objectID": "translations/index.html",
     "href": "translations/index.html",
     "title": "作品翻訳",
     "section": "",
-    "text": "作品の翻訳を、必要に応じて訳注、底本、成立事情とともに掲載します。\n\n\n\n\n\n\n\n\n一致なし"
+    "text": "文学作品の翻訳を、訳注、解説とともに掲載します。\n\n\n\n\n\n\n\n\n一致なし"
   },
   {
     "objectID": "sources/index.html",
