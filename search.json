@@ -7,32 +7,32 @@
     "text": "記事の categories metadata を使い、主題、時代、場所、資料種別などから内容を横断するためのページです。タグを選ぶか、入力欄へタグ名・記事名を入れると該当記事に絞り込めます。\n\n\n\n\n\n\n   \n    \n    \n      並び替え\n      デフォルト\n      \n        記事\n      \n      \n        公開日 - 日付（昇順）\n      \n      \n        公開日 - 日付（降順）\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\nタグ\n記事\n公開日\n\n\n\n\n\n一致なし"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "box-turtle/index.html",
+    "href": "box-turtle/index.html",
+    "title": "セマルハコガメの生活と意見",
     "section": "",
-    "text": "ノラウマノートは、文学と文化をめぐる平井尚生の個人研究サイトです。"
+    "text": "セマルハコガメをめぐる観察、記録、随想を掲載します。\n\n\n\n\n\n\n\n\n一致なし"
   },
   {
-    "objectID": "about.html#平井尚生-nao-hirai",
-    "href": "about.html#平井尚生-nao-hirai",
-    "title": "About",
-    "section": "平井尚生 (Nao HIRAI)",
-    "text": "平井尚生 (Nao HIRAI)\n英文学研究者。立教大学文学部助教。京都大学博士後期課程単位取得退学。\nヴァージニア・ウルフを中心に英語圏の文学と文化を研究しています。\n主な論文に、「虚構の飛行——ヴァージニア・ウルフ“Flying Over London”と戦間期航空文化」（『関西英文学研究』19号、2026年、1-8頁）、“Pointless Narrative and Straying Readers in Virginia Woolf’s ‘Gipsy, the Mongrel’”(Virginia Woolf Review, vol. 41, 2024, pp. 21-39)。経歴の詳細はResearchmap。"
+    "objectID": "sources/index.html",
+    "href": "sources/index.html",
+    "title": "資料から",
+    "section": "",
+    "text": "日記、書簡、新聞、雑誌、アーカイブ資料などの一節を手がかりに、背景や読みどころを紹介します。\n\n\n\n\n\n\n\n\n一致なし"
   },
   {
-    "objectID": "about.html#本サイトの構成",
-    "href": "about.html#本サイトの構成",
-    "title": "About",
-    "section": "本サイトの構成",
-    "text": "本サイトの構成\n\n研究 — 論文、研究報告、発表資料など\n作品翻訳 — 翻訳本文、訳注、底本情報など\n資料から — 日記、書簡、新聞、アーカイブ資料などの紹介\nノート — 読書記録、調査メモ、短い考察など"
+    "objectID": "translations/index.html",
+    "href": "translations/index.html",
+    "title": "作品翻訳",
+    "section": "",
+    "text": "文学作品の翻訳を、訳注、解説とともに掲載します。\n\n\n\n\n\n\n\n\n一致なし"
   },
   {
-    "objectID": "about.html#読み方",
-    "href": "about.html#読み方",
-    "title": "About",
-    "section": "読み方",
-    "text": "読み方\n各区分から読むほか、人物索引とタグから記事を探すこともできます。"
+    "objectID": "research/index.html",
+    "href": "research/index.html",
+    "title": "研究",
+    "section": "",
+    "text": "論文、研究報告、発表資料などを紹介します。\n\n\n\n\n\n\n\n\n一致なし"
   },
   {
     "objectID": "index.html#featured",
@@ -46,7 +46,7 @@
     "href": "index.html#主な読みもの",
     "title": "ノラウマノート",
     "section": "主な読みもの",
-    "text": "主な読みもの\n\n\n研究\n論文、研究報告、発表資料など、公表した研究成果。\n\n\n作品翻訳\n文学作品の翻訳と解説。\n\n\n資料から\n日記、書簡、新聞、アーカイブ資料。"
+    "text": "主な読みもの\n\n\n研究\n論文、研究報告、発表資料など、公表した研究成果。\n\n\n作品翻訳\n文学作品の翻訳と解説。\n\n\n資料から\n日記、書簡、新聞、アーカイブ資料。\n\n\nセマルハコガメの生活と意見\nセマルハコガメをめぐる観察、記録、随想。"
   },
   {
     "objectID": "index.html#最近のノート",
@@ -70,25 +70,32 @@
     "text": "About\nサイトの執筆者と方針についてまとめています。\nノラウマノートについて"
   },
   {
-    "objectID": "research/index.html",
-    "href": "research/index.html",
-    "title": "研究",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
     "section": "",
-    "text": "論文、研究報告、発表資料などを紹介します。\n\n\n\n\n\n\n\n\n一致なし"
+    "text": "ノラウマノートは、文学と文化をめぐる平井尚生の個人研究サイトです。"
   },
   {
-    "objectID": "translations/index.html",
-    "href": "translations/index.html",
-    "title": "作品翻訳",
-    "section": "",
-    "text": "文学作品の翻訳を、訳注、解説とともに掲載します。\n\n\n\n\n\n\n\n\n一致なし"
+    "objectID": "about.html#平井尚生-nao-hirai",
+    "href": "about.html#平井尚生-nao-hirai",
+    "title": "About",
+    "section": "平井尚生 (Nao HIRAI)",
+    "text": "平井尚生 (Nao HIRAI)\n英文学研究者。立教大学文学部助教。京都大学博士後期課程単位取得退学。\nヴァージニア・ウルフを中心に英語圏の文学と文化を研究しています。\n主な論文に、「虚構の飛行——ヴァージニア・ウルフ“Flying Over London”と戦間期航空文化」（『関西英文学研究』19号、2026年、1-8頁）、“Pointless Narrative and Straying Readers in Virginia Woolf’s ‘Gipsy, the Mongrel’”(Virginia Woolf Review, vol. 41, 2024, pp. 21-39)。経歴の詳細はResearchmap。"
   },
   {
-    "objectID": "sources/index.html",
-    "href": "sources/index.html",
-    "title": "資料から",
-    "section": "",
-    "text": "日記、書簡、新聞、雑誌、アーカイブ資料などの一節を手がかりに、背景や読みどころを紹介します。\n\n\n\n\n\n\n\n\n一致なし"
+    "objectID": "about.html#本サイトの構成",
+    "href": "about.html#本サイトの構成",
+    "title": "About",
+    "section": "本サイトの構成",
+    "text": "本サイトの構成\n\n研究 — 論文、研究報告、発表資料など\n作品翻訳 — 翻訳本文、訳注、底本情報など\n資料から — 日記、書簡、新聞、アーカイブ資料などの紹介\nセマルハコガメの生活と意見 — セマルハコガメをめぐる観察、記録、随想\nノート — 読書記録、調査メモ、短い考察など"
+  },
+  {
+    "objectID": "about.html#読み方",
+    "href": "about.html#読み方",
+    "title": "About",
+    "section": "読み方",
+    "text": "読み方\n各区分から読むほか、人物索引とタグから記事を探すこともできます。"
   },
   {
     "objectID": "notes/index.html",
@@ -102,6 +109,6 @@
     "href": "people/index.html",
     "title": "人物索引",
     "section": "",
-    "text": "記事の people metadata に記録した人物を、研究・翻訳・資料・ノートの区分を越えてたどるための索引です。入力欄に人物名を入れると、該当する記事だけに絞り込めます。\n記事側で人物を追加・修正すると、この一覧も次回のサイト生成時に更新されます。\n\n\n\n\n\n\n   \n    \n    \n      並び替え\n      デフォルト\n      \n        人物\n      \n      \n        記事\n      \n      \n        公開日 - 日付（昇順）\n      \n      \n        公開日 - 日付（降順）\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n人物\n記事\n公開日\n\n\n\n\n\n一致なし"
+    "text": "記事の people metadata に記録した人物を、五つの区分を越えてたどるための索引です。入力欄に人物名を入れると、該当する記事だけに絞り込めます。\n記事側で人物を追加・修正すると、この一覧も次回のサイト生成時に更新されます。\n\n\n\n\n\n\n   \n    \n    \n      並び替え\n      デフォルト\n      \n        人物\n      \n      \n        記事\n      \n      \n        公開日 - 日付（昇順）\n      \n      \n        公開日 - 日付（降順）\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n人物\n記事\n公開日\n\n\n\n\n\n一致なし"
   }
 ]
